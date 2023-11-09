@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <link rel="stylesheet" type="text/css" href="estilos.css">
+        <link rel="icon" href="./icon/Icono.png">
 </head>
 <body>
     <?php
