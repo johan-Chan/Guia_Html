@@ -2,6 +2,7 @@
 <html>
 <head>
         <link rel="icon" href="./icon/Icono.png">
+        <link rel="stylesheet" href="Estilos/index.css?ver=1.3">
 </head>
 <body>
     <?php
