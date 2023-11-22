@@ -1,0 +1,87 @@
+*
+body
+{
+    background-color: rgb(132, 193, 214);
+}
+
+.titulo
+{
+    font-size: 3vw;
+    color:rgb(140, 0, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', cursive;
+    text-align: center;
+    margin: auto;
+    border-bottom: dotted;
+    width: 35%;
+}
+.caja2
+{
+    background-color: white;
+    margin: 0 32% 0 32%;
+    border-radius: 45px;
+    padding: 10%;
+    box-shadow: 0 1px 30px 0 rgb(140, 0, 255) ;
+}
+.subtitulo
+{
+    font-size: 1.5vw;
+    color:rgb(140, 0, 255);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', cursive;
+    margin-top: -50%;
+    margin-left: 13%;
+}
+
+.inputs
+{
+    border-radius: 70px;
+    text-align: center;
+    margin-left: 16%;
+    border: 2px solid rgb(140, 0, 255);
+    width: 62%;
+    padding: 2%;
+}
+
+.inputs2
+{
+    border-radius: 80px;
+    text-align: center;
+    margin-left: 23%;
+    border: 2px solid rgb(140, 0, 255);
+    width: 55%;
+    padding: 1%;
+}
+.importaciones
+{
+    font-size: 1vw;
+    margin-left: 32%;
+    color:rgb(140, 0, 255);
+}
+
+.guardar
+{
+    font-size: 1vw;
+    background-color: rgb(118, 207, 17);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border: 2px solid rgb(140, 0, 255);
+    text-decoration: none;
+    border-radius: 20px;
+    margin-top: 15%;
+    margin-left: 19%;
+    width: 30%;
+    padding: 2%;
+}
+
+.Limpiar
+{
+    font-size: 1vw;
+    background-color: rgb(245, 41, 9);
+    color: rgb(0, 0, 0);
+    cursor: pointer;
+    border: 2px solid rgb(140, 0, 255);
+    text-decoration: none;
+    border-radius: 20px;
+    margin-top: 15%;
+    width: 30%;
+    padding: 2%;
+}
