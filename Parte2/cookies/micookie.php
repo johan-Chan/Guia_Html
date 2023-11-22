@@ -8,7 +8,13 @@
 <body>
     <?php
     
-    echo $_COOKIE["micookie"];
+   if(isset($_COOKIE["micookie"]))
+   {
+        echo $_COOKIE["micookie"] . "<br>";
+   }else
+        {
+            echo "USTED NO HA CREADO NINGUNA COOKIE" . "<br>";
+        }
     
     ?>
 </body>
