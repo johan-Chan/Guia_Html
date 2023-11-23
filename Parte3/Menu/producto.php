@@ -10,8 +10,10 @@
 <body>
     <div class="cont">
         <p class="titulo">Productos</p>
-        <button class="productos"><a href="">Buscar Producto</a></button><br><br>
-        <button class="pag_idioma"><a href="http://localhost/guiahtml/Guia_Html/Parte2/registro.php">Insertar Proucto</a></button>
+        <button class="productos"><a href="http://localhost/guiahtml/Guia_Html/Parte1/Buscar.php">Buscar Producto</a></button><br><br>
+        <button class="pag_idioma">
+            <a href="http://localhost/guiahtml/Guia_Html/Parte2/registro.php">Insertar Producto</a>
+        </button>
     </div> 
 </body>
 </html>
