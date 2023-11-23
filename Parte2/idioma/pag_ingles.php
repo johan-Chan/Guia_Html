@@ -25,6 +25,13 @@
         entrada están en otros foros, formularios, sistema de redacción, libro de visitas y máquinas de 
         búsqueda
     </p>
+
+    <a href="">
+        <img class="español" src="../icon/esp.jpg" width="200" height="100">
+    </a>
+    <a href="">
+        <img class="ingles" src="../icon/ingles.jpeg" width="200" height="100">
+    </a>
     
 </body>
 </html>
