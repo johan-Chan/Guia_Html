@@ -26,10 +26,10 @@
         búsqueda
     </p>
 
-    <a href="">
+    <a href="crearcookie.php?idioma=sp">
         <img class="español" src="../icon/esp.jpg" width="200" height="100">
     </a>
-    <a href="">
+    <a href="crearcookie.php?idioma=en">
         <img class="ingles" src="../icon/ingles.jpeg" width="200" height="100">
     </a>
     
