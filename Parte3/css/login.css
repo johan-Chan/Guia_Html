@@ -1,0 +1,54 @@
+*
+
+body
+{
+    background-color: rgb(134, 89, 177);
+}
+
+.cont
+{
+    background-color: white;
+    margin:20% 0 20% 0;
+}
+
+.cajita
+{
+    margin-left: 37%;
+    border-radius: 50px;
+    width: 25%;
+    height: 30px;
+    font-size: 15px;
+    box-shadow: 0 1px 30px 0 rgb(79, 155, 255) ;
+}
+
+.texto
+{
+    font-size: 2vw;
+    color: black;
+    text-align: center;
+}
+
+.txt
+{
+    font-size: 1.6vw;
+    color: black;
+    text-align: center;
+}
+
+.guardar
+{
+    background-color: rgb(79, 155, 255);
+    color: white;
+    margin-left: 45%;
+    border: none;
+    width: 9%;
+    height: 30px;
+    border-radius: 8px;
+}
+
+.guardar:hover
+{
+    background-color: white;
+    color: black;
+    transform: scale(1.20);
+}
