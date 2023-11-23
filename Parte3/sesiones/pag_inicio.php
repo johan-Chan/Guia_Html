@@ -9,19 +9,7 @@
     <title>Español</title>
 </head>
 <body>
-<?php
-session_start();
 
-if(!isset($_SESSION["usuario"]))
-{
-    header("Location:form_acceso.php");
-    
-}else
-{
-    echo "BIENVENIDO AL SISTEMA " . $_SESSION["usuario"];
-}
-
-?>
     <p class="titulo">Como utilizar php</p><br><br>
     
     <img class="imgs" src="../icon/phppp.jpeg" width="500" height="300">

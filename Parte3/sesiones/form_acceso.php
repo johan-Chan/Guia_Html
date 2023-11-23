@@ -17,7 +17,7 @@ if(isset($_POST["enviar"]))
         {
             session_start();
             $_SESSION["usuario"]=$_POST["correo"];
-            header("Location:pag_inicio.php");
+            header("Location:../Menu/menu.php");
         }else
         {
             //header("Location:form_acceso.php");
