@@ -19,15 +19,9 @@ if(!isset($_SESSION["usuario"]))
 <body>
     <div class="cont">
         <p class="titulo">Menu</p>
-        <button class="productos"><a href="">Productos</a></button><br><br>
-        <button class="pag_idioma"><a href="">Pag Idiomas</a></button>
-        
-    
+        <button class="productos"><a href="producto.php">Productos</a></button><br><br>
+        <button class="pag_idioma"><a href="http://localhost/guiahtml/Guia_Html/Parte2/idioma/seleccionidioma.php">Pag Idiomas</a></button>
 
-
-
-
-    </div>
-    
+    </div> 
 </body>
 </html>
