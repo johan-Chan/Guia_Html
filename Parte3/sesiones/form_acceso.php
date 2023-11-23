@@ -35,7 +35,7 @@ if(isset($_POST["enviar"]))
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../css/login.css?ver=1.8">
+    <link rel="stylesheet" href="../css/login.css?ver=1.9">
     <link rel="icon" href="../icon/icon2.png">
     <title>Login</title>
 </head>
@@ -48,6 +48,8 @@ if(isset($_POST["enviar"]))
         <input class="cajita" type="email" name="correo">
         <p class="txt" >Contraseña</p>
         <input class="cajita" type="password" name="password"><br><br>
+        <input class="recordarse" type="checkbox" name="recordar">
+        <p class="record">¿Recordar este equipo?</p>
         <input class="guardar" type="submit" name="enviar" value="ENVIAR">
         </div>
 

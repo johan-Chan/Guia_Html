@@ -1,3 +1,14 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/pag_inicio.css?ver=1.5">
+    <link rel="icon" href="../icon/icon2.png">
+    <title>Español</title>
+</head>
+<body>
 <?php
 session_start();
 
@@ -11,17 +22,6 @@ if(!isset($_SESSION["usuario"]))
 }
 
 ?>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="../css/pag_inicio.css?ver=1.4">
-    <link rel="icon" href="../icon/icon2.png">
-    <title>Español</title>
-</head>
-<body>
     <p class="titulo">Como utilizar php</p><br><br>
     
     <img class="imgs" src="../icon/phppp.jpeg" width="500" height="300">
