@@ -8,15 +8,15 @@
     <title>Login</title>
 </head>
 <body>
-    <form action="">
+    <form action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
 
         <div class="cont">
         <p class="texto" >ACCESO AL SISTEMA</p>
         <p class="txt" >Usuario</p>
-        <input class="cajita" type="email">
+        <input class="cajita" type="email" name="correo">
         <p class="txt" >Contraseña</p>
-        <input class="cajita" type="password"><br><br>
-        <input class="guardar" type="submit">
+        <input class="cajita" type="password" name="password"><br><br>
+        <input class="guardar" type="submit" name="enviar" value="ENVIAR">
         </div>
 
 
