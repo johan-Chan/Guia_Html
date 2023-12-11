@@ -5,7 +5,6 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="../css/estilos.css?ver=1.0">
-
   <title>FORMULARIO</title>
 </head>
 
@@ -69,29 +68,20 @@
     </p>
   </div>
   <div class="container">
-    <div class="image-container">
-
-        <img src="../imagenes/imagen1.jpeg">
-      
-      </div>
-      <div class="Texto">
+ <div class="Texto">
         <p>
-          <alingh3>En los últimos años, el alto precio de los vehículos nuevos en Colombia se ha convertido en un tema de preocupación para muchos ciudadanos. La adquisición de un automóvil se ha vuelto cada vez más difícil debido a diversos factores que influyen en su costo final.
-            Uno de los principales factores que contribuyen al alto precio de los vehículos nuevos en Colombia es la carga impositiva.
-            Los impuestos sobre la importación de vehículos son considerablemente altos, lo que eleva significativamente el costo para los consumidores. Además, existen otros impuestos y tasas adicionales que se suman al precio final, como el Impuesto sobre las Ventas (IVA) y los aranceles aduaneros, lo que encarece aún más el proceso de compra.
-            Otro aspecto que influye en el alto precio de los vehículos nuevos es el costo de producción y distribución. Las compañías automotrices deben invertir en tecnología avanzada, investigación y desarrollo, así como en mano de obra calificada para fabricar automóviles modernos y seguros. Además, el transporte de los vehículos desde los centros de producción hasta los concesionarios también implica gastos considerables.
-            La fluctuación en el valor de la moneda también puede afectar el precio de los vehículos nuevos. Colombia ha experimentado cambios en la tasa de cambio, lo que puede hacer que los automóviles importados sean más costosos. Esto se debe a que las empresas que importan vehículos deben pagar más por ellos debido a la devaluación de la moneda local.
-            Además, los altos costos de mantenimiento y la escasez de repuestos también contribuyen al precio final de los vehículos nuevos. Los fabricantes suelen establecer altos márgenes de beneficio en la venta de piezas de repuesto, lo que puede hacer que el mantenimiento de un vehículo sea costoso a largo plazo.
-            La combinación de todos estos factores ha llevado a un escenario en el que adquirir un vehículo nuevo se ha vuelto un desafío para muchos colombianos. Esto ha generado la necesidad de buscar alternativas, como la compra de vehículos usados o la adquisición de vehículos a través de financiamiento.
+          <alingh3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia veritatis facilis esse 
+            facere dolorum voluptatum suscipit nulla nobis sunt, ducimus quos deserunt, placeat laborum co
+            rporis sapiente numquam obcaecati, voluptatibus magni. Lorem ipsum dolor sit amet consectetur adi
+            pisicing elit. Voluptatibus ut possimus suscipit ipsam esse autem, numquam, ipsum aperiam magni er
+            ror repellendus quae reiciendis placeat tenetur voluptatem sit eius! Ut, similique.
             <alingh3>
         </p>
       </div>
     </div>
     <br>
     <nav>
-      <ul class="menu_1">
-        <li><a href="#">Acerca de</a></li>
-        <li><a href="#">Archivos</a></li>
+      <ul class="menu1">
         <li><a href="eliminar_cookie.php">Cerrar sesión</a></li>
 
 
