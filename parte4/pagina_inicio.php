@@ -4,7 +4,6 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="../css/estilos.css?ver=1.0">
   <title>FORMULARIO</title>
 </head>
 
@@ -46,7 +45,7 @@
 
   ?>
   <header>
-    <h1 class="title" align="center">Pagina de información automóviles</h1>
+    <h1 class="title" align="center">Pagina de información sobre adopciones</h1>
     <?php
     if ($autenticar == false) {
       if (!isset($_COOKIE["datos_usuario"])) {
@@ -62,13 +61,10 @@
   }
 
   ?>
-  <div class="titulo2">
     <p>
-    <h1>ALTO PRECIO DE LOS VEHÍCULOS NUEVOS</h1>
+    <h1>Alta Adopcion de gatitos callejeros</h1>
     </p>
-  </div>
-  <div class="container">
- <div class="Texto">
+ 
         <p>
           <alingh3>Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia veritatis facilis esse 
             facere dolorum voluptatum suscipit nulla nobis sunt, ducimus quos deserunt, placeat laborum co
@@ -77,15 +73,10 @@
             ror repellendus quae reiciendis placeat tenetur voluptatem sit eius! Ut, similique.
             <alingh3>
         </p>
-      </div>
-    </div>
+
     <br>
     <nav>
-      <ul class="menu1">
         <li><a href="eliminar_cookie.php">Cerrar sesión</a></li>
-
-
-      </ul>
     </nav>
 
 </body>
